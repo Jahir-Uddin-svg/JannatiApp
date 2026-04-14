@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Haram Blur</string>
+    <string name="service_description">This service monitors screen content to protect you from prohibited imagery.</string>
+</resources>
